@@ -3,6 +3,8 @@ package com.lesehome.gsonexampleandroid;
 import android.app.Application;
 import android.test.ApplicationTestCase;
 
+import com.lesehome.gsonexampleandroid.util.AssetsUtil;
+
 /**
  * <a href="http://d.android.com/tools/testing/testing_android.html">Testing Fundamentals</a>
  */
