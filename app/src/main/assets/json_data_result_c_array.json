@@ -1,0 +1,19 @@
+{
+  "code": 0,
+  "message": "请求成功",
+  "result": {
+    "appversion": "1.0 beta1",
+    "appname": "乐色之家",
+    "price": 99.99,
+    "clist": [
+      {
+        "title": "只抢不卖！还送10000元大礼包！",
+        "url": "http://www.lesehome.com/1"
+      },
+      {
+        "title": "送10000元大礼包！",
+        "url": "http://www.lesehome.com/2"
+      }
+    ]
+  }
+}

@@ -9,7 +9,7 @@ import java.io.Serializable;
  */
 public class ResponseBean<T> implements Serializable {
 
-    public int returncode = -1;
+    public int code = -1;
     public String message;
     public T result;
 
@@ -19,9 +19,10 @@ public class ResponseBean<T> implements Serializable {
      * @return
      */
     public boolean isSuccess() {
-        if (returncode == 0) {
+        if (code == 0) {
             return true;
         }
         return false;
     }
+
 }
