@@ -139,4 +139,7 @@ JsonDataResultTypeConversionTest.class
 #补充博客：
 [你真的会用Gson吗?Gson使用指南](http://www.jianshu.com/p/e740196225a4)
 [Gson使用详解](http://blog.csdn.net/u012702547/article/details/46043549)
+[Json框架选型:Android开发中应该使用哪一种主流json框架？](https://zhuanlan.zhihu.com/p/21919300)
+
+
 
