@@ -1,4 +1,7 @@
 # GsonExampleAndroid
+
+###JSON介绍:[JSON介绍](http://www.json.org/json-zh.html)
+
 Gson 示例  Android版本  version 0.01
 
 ####创建gson用到的GsonBuilder需要设置具体参数：
